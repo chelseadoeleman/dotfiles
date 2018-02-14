@@ -1,3 +1,4 @@
+# Zorgt ervoor dat .bashrc ook wordt geopend naast .bash_profile
 if [ -f ~/.bashrc ]; then
     source ~/.bashrc
   fi
