@@ -11,6 +11,9 @@ You can copy the repository with:
 > git clone https://github.com/chelseadoeleman/dotfiles.git 
 
 Or you can copy the code and enter it in the files .bashrc or .bash_profile.  
-If there is no such file you can make one in your home directory ~.  
+If there is no such file you can make one in your home directory ~.   
+
+You can change the promptline by inserting another emoiji.  
+Or you want to see a path of directories, then you have to change \W into \w.  
 
 
